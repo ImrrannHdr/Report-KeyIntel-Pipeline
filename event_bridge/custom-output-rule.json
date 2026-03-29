@@ -1,0 +1,14 @@
+{
+  "source": ["aws.s3"],
+  "detail-type": ["Object Created"],
+  "detail": {
+    "object": {
+      "key": [{
+        "wildcard": "*/custom_output/*/result.json"
+      }]
+    },
+    "bucket": {
+      "name": ["bedrock-daut-cybertiplinereport-details-output"]
+    }
+  }
+}
