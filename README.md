@@ -187,7 +187,7 @@ cd cybertipline-intel-pipeline
 
 ## Author
 
-**[Your Name]**
+Imran Haider
 Data Engineer | AWS | PySpark | Serverless Pipelines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
